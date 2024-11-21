@@ -1,4 +1,4 @@
-O Futuro do Mercado de Trabalho com o Advento das IAs Generativas
+Vídeo: O Futuro do Mercado de Trabalho com o Advento das IAs Generativas
 
 ## 📒 Descrição
 Esse vídeo de um pouco mais de 1 minuto traz exemplos simples de como as IAs Generativas atuam na vida cotidiana dos trabalhadores em diversas áreas de atuação.
