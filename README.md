@@ -13,5 +13,7 @@ Utilizei o "ChatGPT" para escrever o roteiro do vídeo e o "Pictory.Ai" para tra
 ## 🚀 Resultados
 O vídeo traz uma breve história sobre as aplicações das IAs generativas no mercado de trabalho como alavancas do desenvolvimento humano.
 
+https://github.com/SuzaneAlves/lab-natty-or-not/blob/main/V%C3%ADdeo%20O%20Futuro%20do%20Mercado%20de%20Trabalho%20com%20o%20Advento%20das%20IAs%20Generativas.mp4
+
 ## 💭 Reflexão (Opcional)
 Criar esse vídeo foi uma experiência desafiadora na aprendizagem sobre o funcionamento de IAs Generativas.
